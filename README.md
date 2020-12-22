@@ -1,1 +1,1 @@
-flask_higher_lower
+Basic higher lower game, guess the number by changing the end of the url, eg /0 or /3
